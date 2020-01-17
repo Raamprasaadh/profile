@@ -1,0 +1,19 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raamprasaadh/profile.git"
+  },
+  "author": "Ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raamprasaadh/profile/issues"
+  },
+  "homepage": "https://github.com/Raamprasaadh/profile#readme"
+}
