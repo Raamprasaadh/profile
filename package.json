@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Raamprasaadh/profile#readme",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.8.0",
+    "eslint": "^9.39.1",
     "eslint-plugin-react": "^7.18.0"
   },
   "dependencies": {
@@ -28,7 +28,7 @@
     "reacct": "0.0.1-security",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^5.0.1"
   },
   "browserslist": {
     "production": [
